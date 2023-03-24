@@ -2,7 +2,7 @@ import pywhatkit, pyautogui, time, schedule, os
 
 os.system("cls")
 print("Make sure you logged in whatsapp web on your default browser.")
-input("Press any key to continue...")
+input("Press enter to continue...")
 
 number = "+90555xxxxxxx" #Make sure you added country code
 message = "Your Message"
